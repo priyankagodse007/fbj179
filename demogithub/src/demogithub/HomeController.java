@@ -10,8 +10,9 @@ public class HomeController {
 	public void m3(){
 	System.out.println("this is m3");
 		}
-	
-	
+	public void m4(){
+	System.out.println("this is m4");
+	}
 	public static void main(String[] args) {
 		
 		System.out.println("github_179");
